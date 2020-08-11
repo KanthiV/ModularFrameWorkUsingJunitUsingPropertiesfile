@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14952" started-at="2020-08-11T16:54:30 CDT" finished-at="2020-08-11T16:54:45 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14952" started-at="2020-08-11T16:54:30 CDT" finished-at="2020-08-11T16:54:45 CDT">
+      <class name="seleniumModularFrameWorkTestNG.ModularFrameworkUsingTestNGUsingBeforeMethod">
+        <test-method status="PASS" signature="readfile()[pri:0, instance:seleniumModularFrameWorkTestNG.ModularFrameworkUsingTestNGUsingBeforeMethod@4bbfb90a]" name="readfile" is-config="true" duration-ms="10" started-at="2020-08-11T16:54:30 CDT" finished-at="2020-08-11T16:54:30 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readfile -->
+        <test-method status="PASS" signature="init()[pri:0, instance:seleniumModularFrameWorkTestNG.ModularFrameworkUsingTestNGUsingBeforeMethod@4bbfb90a]" name="init" is-config="true" duration-ms="7320" started-at="2020-08-11T16:54:30 CDT" finished-at="2020-08-11T16:54:38 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="logInAndAddcontact()[pri:0, instance:seleniumModularFrameWorkTestNG.ModularFrameworkUsingTestNGUsingBeforeMethod@4bbfb90a]" name="logInAndAddcontact" duration-ms="6649" started-at="2020-08-11T16:54:38 CDT" finished-at="2020-08-11T16:54:44 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInAndAddcontact -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:seleniumModularFrameWorkTestNG.ModularFrameworkUsingTestNGUsingBeforeMethod@4bbfb90a]" name="tearDown" is-config="true" duration-ms="936" started-at="2020-08-11T16:54:44 CDT" finished-at="2020-08-11T16:54:45 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- seleniumModularFrameWorkTestNG.ModularFrameworkUsingTestNGUsingBeforeMethod -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
